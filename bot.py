@@ -35,7 +35,7 @@ def echo(update: Update, context: CallbackContext):
 
 def main():
     # привязываем token и создаём объект для работы бота
-    updater = Updater("1989603124:AAGLtkds9Hn14eEGZq4ejZE_aMIJMuIAnek")
+    updater = Updater("ЗДЕСЬ ДОЛЖЕН БЫТЬ TOKEN API БОТА!")
     dp = updater.dispatcher
 
     # добавляем два хэндлера для работы с двумя командами
